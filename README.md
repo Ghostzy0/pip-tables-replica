@@ -4,7 +4,7 @@ Experimental original recreation of the observed conversation → analysis → c
 
 This is the separate Neutral Core replica. [Pip Tables](https://github.com/Ghostzy0/pip-tables) retains the custom workbench with neutral/Pip appearances and Plus import inspection/pages. Both pin the same licensed engine; see [provenance](UPSTREAM.md) and SHARED-CORE.json.
 
-![Synthetic offscreen source render](assets/replica-source.png)
+![Synthetic native packaged render](assets/replica-native.jpg)
 
 ## Set up on a Mac
 
