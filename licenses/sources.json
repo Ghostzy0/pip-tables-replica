@@ -1,0 +1,18 @@
+{
+  "qt-LGPL-3.0-only.txt": {
+    "source": "https://raw.githubusercontent.com/qt/qtbase/v6.10.2/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+  },
+  "qt-GPL-3.0-only.txt": {
+    "source": "https://raw.githubusercontent.com/qt/qtbase/v6.10.2/LICENSES/GPL-3.0-only.txt",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  "python-LICENSE.txt": {
+    "source": "CPython 3.13.16 Homebrew installed LICENSE; https://github.com/python/cpython/tree/v3.13.16",
+    "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb"
+  },
+  "pyside-LGPL-3.0-only.txt": {
+    "source": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.10.2/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+  }
+}

@@ -1,0 +1,10 @@
+# Tables Replica
+
+Canonical source: https://github.com/Ghostzy0/pip-tables-replica
+Releases: https://github.com/Ghostzy0/pip-tables-replica/releases
+README/setup: https://github.com/Ghostzy0/pip-tables-replica/blob/main/README.md
+FAQ: https://github.com/Ghostzy0/pip-tables-replica/blob/main/docs/FAQ.md
+Verification: https://github.com/Ghostzy0/pip-tables-replica/blob/main/docs/VERIFICATION.md
+Provenance/shared engine: https://github.com/Ghostzy0/pip-tables-replica/blob/main/UPSTREAM.md
+Custom workbench: https://github.com/Ghostzy0/pip-tables
+Original MIT partial local data-conversation workflow/layout replica on macOS arm64. Deterministic supported questions/manualSQL, no arbitrary AI/account/model/server. No vendor code/assets/full equivalence or notarisation claim. Projects are plaintext and local. Consult exact source/release/test evidence and known limitations.

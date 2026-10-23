@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/Ghostzy0/pip-tables",
+  "commit": "9af81fa3ef9b1bdcd4bddb251a3a557e0305182d",
+  "files": {
+    "pip_tables/engine.py": "8f0908dcb6326bc89d0694df10d4df61ca14b8b350f5c50bbd1f9b54908a0cba",
+    "pip_tables/__init__.py": "4bba39c5311e0306d7aa4f8b62ad4262215f7b90141b8c7d5f771adfd096bd74"
+  },
+  "policy": "unmodified public MIT engine; replica UI/controller are separate original implementation"
+}

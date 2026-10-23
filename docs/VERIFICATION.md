@@ -1,0 +1,7 @@
+# Verification
+
+23 October 2026. Local Apple Silicon macOS 27.0.1 / Python 3.13.16. Fourteen controller/offscreen Qt tests pass: exact 12 rows/11 non-null/1384.25 and regional 555.75/419.75/408.75, persistence/CSVexport, unsupported/hostileSQL, pre-cancel, provenance race/manualSQL, active controls, signed chart geometry, malformed sidecar and recovery. Shared public core9af81fa3ef9b1bdcd4bddb251a3a557e0305182d hashes verified. Source launch smoke passes decimal 0.30/2.05,4 rows/3 non-null,CSVexport/reopen.
+
+Independent source review/fix/retest resolved inaccurate mutable source labels, active selection during work, negative bars drawn positive, malformed sidecar and orphaned import visibility. Parent final refinements add lazy table cells, no draft edits while busy, native shortcuts/About, centered maximum width and sparse chart labels. Final rendered/native/package/cleanclone/resource checks pending at this checkpoint; no false claim from source tests.
+
+No arbitrary language model, hosted analysis, full reference/layout equivalence or account integration. Native VoiceOver, OS preference acceptance, second Mac, signing identity/notarisation and energy use remain unverified. The shared native engine is bounded but not a process sandbox;512 MB does not cap all Python/Qt memory or project disk. Imports/exports have 120-second cooperative deadlines,one million row cap,tighterXLSXpreflight; Python parser calls cannot be interrupted instantly. Export reruns SQL; formula-like CSV text is escaped.
